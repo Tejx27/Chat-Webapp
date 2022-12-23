@@ -1,5 +1,5 @@
 # Chat-Webapp
-This is simple Web chat app in React and Node<br />
+This is simple chat webapp in React and Node<br />
 
 
 ##**_Required Editor_**<br />

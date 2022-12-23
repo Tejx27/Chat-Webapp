@@ -4,7 +4,7 @@ This is simple Web chat app in React and Node
 
 ##Required Editor
 You can also use other editors but I preferred to use Vscode for this project.
-###Vscode
+<strong>Vscode</strong>
 
 
 Download this project file and open in vscode and open terminal and change directory by using following commands in terminal

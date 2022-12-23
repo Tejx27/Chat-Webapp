@@ -2,7 +2,7 @@
 This is simple chat webapp in React and Node<br />
 
 
-##**_Required Editor_**<br />
+**_Required Editor_**<br />
 You can also use other editors but I preferred to use `Vscode` for this project.<br />
 **Vscode**
 
